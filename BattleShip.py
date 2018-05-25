@@ -641,7 +641,7 @@ def Attack():  #Player attacks
     x = attack[0]
     y = attack[2]
 
-    if Attack_board[int(y)+1][int(x)+1] == 'O' or Attack_board[int(y)+1][int(x)+1] == 'X:':
+    if Attack_board[int(y)+1][int(x)+1] == 'O' or Attack_board[int(y)+1][int(x)+1] == 'X':
         print('\nYou can not attack there')
         time.sleep(1.5)
         Attack()
