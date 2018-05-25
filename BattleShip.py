@@ -1,6 +1,8 @@
-#Battle Ship v.1 last updated 5/24/18
+#License GNU-GPL v 3.0
+#Battle Ship v 1.0 last updated 5/24/18
 #One player game of battleship. Player is facing the random computer generator
 #Needs a New_Game file to work
+#Keenan Hui
 
 
 
